@@ -44,7 +44,7 @@ def process_files_in_folder(folder_path, words_list):
 
 if __name__ == "__main__":
     folder_path = 'pdfs'
-    words_list = ['stones','since', 'investment', 'capital']
+    words_list = ['stones','since', 'investment', 'capital','Nullam','accumsan','lorem']
     result_json = process_files_in_folder(folder_path, words_list)
 
     with open("result.json", "w") as json_file:
