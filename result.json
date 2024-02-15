@@ -4,24 +4,41 @@
             "file_name": "drylab copy 3.pdf",
             "words": [
                 {
+                    "word_name": "stones",
+                    "instances": [
+                        "Including the development\nagreement with Filmlance International, the\ntotal new capital is 5 MNOK, partly tied to\nthe successful completion of milestones"
+                    ],
+                    "locations": [
+                        {
+                            "page_number": 1,
+                            "x0": 475.9217834472656,
+                            "y0": 508.9942626953125,
+                            "x1": 510.44580078125,
+                            "y1": 523.394287109375
+                        }
+                    ]
+                },
+                {
                     "word_name": "since",
                     "instances": [
                         "DrylabNews\nfor investors & friends \u00b7 May 2017\nWelcome to our first newsletter of 2017! It's\nbeen a while since the last one, and a lot has\nhappened",
                         "this year, since\nfeedback from many users about the show\nwere mixed, and our planned beta version of\n3"
                     ],
                     "locations": [
-                        [
-                            123.97691345214844,
-                            458.5942687988281,
-                            150.82090759277344,
-                            472.9942626953125
-                        ],
-                        [
-                            242.05691528320312,
-                            243.37689208984375,
-                            268.90093994140625,
-                            257.7768859863281
-                        ]
+                        {
+                            "page_number": 1,
+                            "x0": 123.97691345214844,
+                            "y0": 458.5942687988281,
+                            "x1": 150.82090759277344,
+                            "y1": 472.9942626953125
+                        },
+                        {
+                            "page_number": 3,
+                            "x0": 242.05691528320312,
+                            "y0": 243.37689208984375,
+                            "x1": 268.90093994140625,
+                            "y1": 257.7768859863281
+                        }
                     ]
                 },
                 {
@@ -31,18 +48,20 @@
                         "New capital: The investment round was\nsuccessful"
                     ],
                     "locations": [
-                        [
-                            201.98887634277344,
-                            576.1942749023438,
-                            260.7889099121094,
-                            590.5942993164062
-                        ],
-                        [
-                            156.90489196777344,
-                            618.1942749023438,
-                            215.7049102783203,
-                            632.5942993164062
-                        ]
+                        {
+                            "page_number": 1,
+                            "x0": 201.98887634277344,
+                            "y0": 576.1942749023438,
+                            "x1": 260.7889099121094,
+                            "y1": 590.5942993164062
+                        },
+                        {
+                            "page_number": 1,
+                            "x0": 156.90489196777344,
+                            "y0": 618.1942749023438,
+                            "x1": 215.7049102783203,
+                            "y1": 632.5942993164062
+                        }
                     ]
                 },
                 {
@@ -53,24 +72,27 @@
                         "New team members: We've extended our\norganization with two permanent developers\nbased in \u0141\u00f3d\u017a, the film capital of Poland"
                     ],
                     "locations": [
-                        [
-                            87.11290740966797,
-                            618.4222412109375,
-                            129.2928924560547,
-                            633.05029296875
-                        ],
-                        [
-                            355.2018127441406,
-                            492.19427490234375,
-                            390.21783447265625,
-                            506.5942687988281
-                        ],
-                        [
-                            174.19688415527344,
-                            549.7620849609375,
-                            209.212890625,
-                            564.162109375
-                        ]
+                        {
+                            "page_number": 1,
+                            "x0": 87.11290740966797,
+                            "y0": 618.4222412109375,
+                            "x1": 129.2928924560547,
+                            "y1": 633.05029296875
+                        },
+                        {
+                            "page_number": 1,
+                            "x0": 355.2018127441406,
+                            "y0": 492.19427490234375,
+                            "x1": 390.21783447265625,
+                            "y1": 506.5942687988281
+                        },
+                        {
+                            "page_number": 2,
+                            "x0": 174.19688415527344,
+                            "y0": 549.7620849609375,
+                            "x1": 209.212890625,
+                            "y1": 564.162109375
+                        }
                     ]
                 }
             ]
@@ -79,24 +101,41 @@
             "file_name": "drylab copy 2.pdf",
             "words": [
                 {
+                    "word_name": "stones",
+                    "instances": [
+                        "Including the development\nagreement with Filmlance International, the\ntotal new capital is 5 MNOK, partly tied to\nthe successful completion of milestones"
+                    ],
+                    "locations": [
+                        {
+                            "page_number": 1,
+                            "x0": 475.9217834472656,
+                            "y0": 508.9942626953125,
+                            "x1": 510.44580078125,
+                            "y1": 523.394287109375
+                        }
+                    ]
+                },
+                {
                     "word_name": "since",
                     "instances": [
                         "DrylabNews\nfor investors & friends \u00b7 May 2017\nWelcome to our first newsletter of 2017! It's\nbeen a while since the last one, and a lot has\nhappened",
                         "this year, since\nfeedback from many users about the show\nwere mixed, and our planned beta version of\n3"
                     ],
                     "locations": [
-                        [
-                            123.97691345214844,
-                            458.5942687988281,
-                            150.82090759277344,
-                            472.9942626953125
-                        ],
-                        [
-                            242.05691528320312,
-                            243.37689208984375,
-                            268.90093994140625,
-                            257.7768859863281
-                        ]
+                        {
+                            "page_number": 1,
+                            "x0": 123.97691345214844,
+                            "y0": 458.5942687988281,
+                            "x1": 150.82090759277344,
+                            "y1": 472.9942626953125
+                        },
+                        {
+                            "page_number": 3,
+                            "x0": 242.05691528320312,
+                            "y0": 243.37689208984375,
+                            "x1": 268.90093994140625,
+                            "y1": 257.7768859863281
+                        }
                     ]
                 },
                 {
@@ -106,18 +145,20 @@
                         "New capital: The investment round was\nsuccessful"
                     ],
                     "locations": [
-                        [
-                            201.98887634277344,
-                            576.1942749023438,
-                            260.7889099121094,
-                            590.5942993164062
-                        ],
-                        [
-                            156.90489196777344,
-                            618.1942749023438,
-                            215.7049102783203,
-                            632.5942993164062
-                        ]
+                        {
+                            "page_number": 1,
+                            "x0": 201.98887634277344,
+                            "y0": 576.1942749023438,
+                            "x1": 260.7889099121094,
+                            "y1": 590.5942993164062
+                        },
+                        {
+                            "page_number": 1,
+                            "x0": 156.90489196777344,
+                            "y0": 618.1942749023438,
+                            "x1": 215.7049102783203,
+                            "y1": 632.5942993164062
+                        }
                     ]
                 },
                 {
@@ -128,24 +169,27 @@
                         "New team members: We've extended our\norganization with two permanent developers\nbased in \u0141\u00f3d\u017a, the film capital of Poland"
                     ],
                     "locations": [
-                        [
-                            87.11290740966797,
-                            618.4222412109375,
-                            129.2928924560547,
-                            633.05029296875
-                        ],
-                        [
-                            355.2018127441406,
-                            492.19427490234375,
-                            390.21783447265625,
-                            506.5942687988281
-                        ],
-                        [
-                            174.19688415527344,
-                            549.7620849609375,
-                            209.212890625,
-                            564.162109375
-                        ]
+                        {
+                            "page_number": 1,
+                            "x0": 87.11290740966797,
+                            "y0": 618.4222412109375,
+                            "x1": 129.2928924560547,
+                            "y1": 633.05029296875
+                        },
+                        {
+                            "page_number": 1,
+                            "x0": 355.2018127441406,
+                            "y0": 492.19427490234375,
+                            "x1": 390.21783447265625,
+                            "y1": 506.5942687988281
+                        },
+                        {
+                            "page_number": 2,
+                            "x0": 174.19688415527344,
+                            "y0": 549.7620849609375,
+                            "x1": 209.212890625,
+                            "y1": 564.162109375
+                        }
                     ]
                 }
             ]
@@ -154,24 +198,41 @@
             "file_name": "drylab.pdf",
             "words": [
                 {
+                    "word_name": "stones",
+                    "instances": [
+                        "Including the development\nagreement with Filmlance International, the\ntotal new capital is 5 MNOK, partly tied to\nthe successful completion of milestones"
+                    ],
+                    "locations": [
+                        {
+                            "page_number": 1,
+                            "x0": 475.9217834472656,
+                            "y0": 508.9942626953125,
+                            "x1": 510.44580078125,
+                            "y1": 523.394287109375
+                        }
+                    ]
+                },
+                {
                     "word_name": "since",
                     "instances": [
                         "DrylabNews\nfor investors & friends \u00b7 May 2017\nWelcome to our first newsletter of 2017! It's\nbeen a while since the last one, and a lot has\nhappened",
                         "this year, since\nfeedback from many users about the show\nwere mixed, and our planned beta version of\n3"
                     ],
                     "locations": [
-                        [
-                            123.97691345214844,
-                            458.5942687988281,
-                            150.82090759277344,
-                            472.9942626953125
-                        ],
-                        [
-                            242.05691528320312,
-                            243.37689208984375,
-                            268.90093994140625,
-                            257.7768859863281
-                        ]
+                        {
+                            "page_number": 1,
+                            "x0": 123.97691345214844,
+                            "y0": 458.5942687988281,
+                            "x1": 150.82090759277344,
+                            "y1": 472.9942626953125
+                        },
+                        {
+                            "page_number": 3,
+                            "x0": 242.05691528320312,
+                            "y0": 243.37689208984375,
+                            "x1": 268.90093994140625,
+                            "y1": 257.7768859863281
+                        }
                     ]
                 },
                 {
@@ -181,18 +242,20 @@
                         "New capital: The investment round was\nsuccessful"
                     ],
                     "locations": [
-                        [
-                            201.98887634277344,
-                            576.1942749023438,
-                            260.7889099121094,
-                            590.5942993164062
-                        ],
-                        [
-                            156.90489196777344,
-                            618.1942749023438,
-                            215.7049102783203,
-                            632.5942993164062
-                        ]
+                        {
+                            "page_number": 1,
+                            "x0": 201.98887634277344,
+                            "y0": 576.1942749023438,
+                            "x1": 260.7889099121094,
+                            "y1": 590.5942993164062
+                        },
+                        {
+                            "page_number": 1,
+                            "x0": 156.90489196777344,
+                            "y0": 618.1942749023438,
+                            "x1": 215.7049102783203,
+                            "y1": 632.5942993164062
+                        }
                     ]
                 },
                 {
@@ -203,24 +266,27 @@
                         "New team members: We've extended our\norganization with two permanent developers\nbased in \u0141\u00f3d\u017a, the film capital of Poland"
                     ],
                     "locations": [
-                        [
-                            87.11290740966797,
-                            618.4222412109375,
-                            129.2928924560547,
-                            633.05029296875
-                        ],
-                        [
-                            355.2018127441406,
-                            492.19427490234375,
-                            390.21783447265625,
-                            506.5942687988281
-                        ],
-                        [
-                            174.19688415527344,
-                            549.7620849609375,
-                            209.212890625,
-                            564.162109375
-                        ]
+                        {
+                            "page_number": 1,
+                            "x0": 87.11290740966797,
+                            "y0": 618.4222412109375,
+                            "x1": 129.2928924560547,
+                            "y1": 633.05029296875
+                        },
+                        {
+                            "page_number": 1,
+                            "x0": 355.2018127441406,
+                            "y0": 492.19427490234375,
+                            "x1": 390.21783447265625,
+                            "y1": 506.5942687988281
+                        },
+                        {
+                            "page_number": 2,
+                            "x0": 174.19688415527344,
+                            "y0": 549.7620849609375,
+                            "x1": 209.212890625,
+                            "y1": 564.162109375
+                        }
                     ]
                 }
             ]
@@ -229,24 +295,41 @@
             "file_name": "drylab copy.pdf",
             "words": [
                 {
+                    "word_name": "stones",
+                    "instances": [
+                        "Including the development\nagreement with Filmlance International, the\ntotal new capital is 5 MNOK, partly tied to\nthe successful completion of milestones"
+                    ],
+                    "locations": [
+                        {
+                            "page_number": 1,
+                            "x0": 475.9217834472656,
+                            "y0": 508.9942626953125,
+                            "x1": 510.44580078125,
+                            "y1": 523.394287109375
+                        }
+                    ]
+                },
+                {
                     "word_name": "since",
                     "instances": [
                         "DrylabNews\nfor investors & friends \u00b7 May 2017\nWelcome to our first newsletter of 2017! It's\nbeen a while since the last one, and a lot has\nhappened",
                         "this year, since\nfeedback from many users about the show\nwere mixed, and our planned beta version of\n3"
                     ],
                     "locations": [
-                        [
-                            123.97691345214844,
-                            458.5942687988281,
-                            150.82090759277344,
-                            472.9942626953125
-                        ],
-                        [
-                            242.05691528320312,
-                            243.37689208984375,
-                            268.90093994140625,
-                            257.7768859863281
-                        ]
+                        {
+                            "page_number": 1,
+                            "x0": 123.97691345214844,
+                            "y0": 458.5942687988281,
+                            "x1": 150.82090759277344,
+                            "y1": 472.9942626953125
+                        },
+                        {
+                            "page_number": 3,
+                            "x0": 242.05691528320312,
+                            "y0": 243.37689208984375,
+                            "x1": 268.90093994140625,
+                            "y1": 257.7768859863281
+                        }
                     ]
                 },
                 {
@@ -256,18 +339,20 @@
                         "New capital: The investment round was\nsuccessful"
                     ],
                     "locations": [
-                        [
-                            201.98887634277344,
-                            576.1942749023438,
-                            260.7889099121094,
-                            590.5942993164062
-                        ],
-                        [
-                            156.90489196777344,
-                            618.1942749023438,
-                            215.7049102783203,
-                            632.5942993164062
-                        ]
+                        {
+                            "page_number": 1,
+                            "x0": 201.98887634277344,
+                            "y0": 576.1942749023438,
+                            "x1": 260.7889099121094,
+                            "y1": 590.5942993164062
+                        },
+                        {
+                            "page_number": 1,
+                            "x0": 156.90489196777344,
+                            "y0": 618.1942749023438,
+                            "x1": 215.7049102783203,
+                            "y1": 632.5942993164062
+                        }
                     ]
                 },
                 {
@@ -278,24 +363,27 @@
                         "New team members: We've extended our\norganization with two permanent developers\nbased in \u0141\u00f3d\u017a, the film capital of Poland"
                     ],
                     "locations": [
-                        [
-                            87.11290740966797,
-                            618.4222412109375,
-                            129.2928924560547,
-                            633.05029296875
-                        ],
-                        [
-                            355.2018127441406,
-                            492.19427490234375,
-                            390.21783447265625,
-                            506.5942687988281
-                        ],
-                        [
-                            174.19688415527344,
-                            549.7620849609375,
-                            209.212890625,
-                            564.162109375
-                        ]
+                        {
+                            "page_number": 1,
+                            "x0": 87.11290740966797,
+                            "y0": 618.4222412109375,
+                            "x1": 129.2928924560547,
+                            "y1": 633.05029296875
+                        },
+                        {
+                            "page_number": 1,
+                            "x0": 355.2018127441406,
+                            "y0": 492.19427490234375,
+                            "x1": 390.21783447265625,
+                            "y1": 506.5942687988281
+                        },
+                        {
+                            "page_number": 2,
+                            "x0": 174.19688415527344,
+                            "y0": 549.7620849609375,
+                            "x1": 209.212890625,
+                            "y1": 564.162109375
+                        }
                     ]
                 }
             ]
